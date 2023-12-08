@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Mar 17 11:52:59 2023
+# Process ID: 17160
+# Current directory: C:/Users/Administrator/Documents/project_10blaze/project_10blaze.runs/microblazeblock_dlmb_bram_if_cntlr_0_synth_1
+# Command line: vivado.exe -log microblazeblock_dlmb_bram_if_cntlr_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source microblazeblock_dlmb_bram_if_cntlr_0.tcl
+# Log file: C:/Users/Administrator/Documents/project_10blaze/project_10blaze.runs/microblazeblock_dlmb_bram_if_cntlr_0_synth_1/microblazeblock_dlmb_bram_if_cntlr_0.vds
+# Journal file: C:/Users/Administrator/Documents/project_10blaze/project_10blaze.runs/microblazeblock_dlmb_bram_if_cntlr_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source microblazeblock_dlmb_bram_if_cntlr_0.tcl -notrace
